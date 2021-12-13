@@ -38,6 +38,12 @@ struct ContentView: View {
                     .bold()
                     .foregroundColor(.white)
                     .padding(.top, 0)
+                Text("2021")
+                    .font(.largeTitle)
+                    .bold()
+                    .foregroundColor(.white)
+                    .padding(.top, 0)
+
             }
             .padding(.top, -30)
         }

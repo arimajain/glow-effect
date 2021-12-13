@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		023ADB9B2767CB82004B94A8 /* DemoClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023ADB9A2767CB82004B94A8 /* DemoClass.swift */; };
 		026C89D126F0E95D00135D37 /* glow_effectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026C89D026F0E95D00135D37 /* glow_effectApp.swift */; };
 		026C89D326F0E95D00135D37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026C89D226F0E95D00135D37 /* ContentView.swift */; };
 		026C89D526F0E95E00135D37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026C89D426F0E95E00135D37 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		023ADB9A2767CB82004B94A8 /* DemoClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoClass.swift; sourceTree = "<group>"; };
 		026C89CD26F0E95D00135D37 /* glow effect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "glow effect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		026C89D026F0E95D00135D37 /* glow_effectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = glow_effectApp.swift; sourceTree = "<group>"; };
 		026C89D226F0E95D00135D37 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		026C89C426F0E95D00135D37 = {
 			isa = PBXGroup;
 			children = (
+				023ADB9A2767CB82004B94A8 /* DemoClass.swift */,
 				026C89CF26F0E95D00135D37 /* glow effect */,
 				026C89CE26F0E95D00135D37 /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				023ADB9B2767CB82004B94A8 /* DemoClass.swift in Sources */,
 				026C89D326F0E95D00135D37 /* ContentView.swift in Sources */,
 				026C89D126F0E95D00135D37 /* glow_effectApp.swift in Sources */,
 			);
